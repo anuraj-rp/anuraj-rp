@@ -10,8 +10,5 @@
 </a>
 <a href="https://www.instagram.com/anurajrp">
   <img align="left" alt="Anuraj's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-
-<br />
-
-I'm a **Robotics and Embedded Software Professional** 👨🏽‍💼 living in Finland. <br />
+</a> <br /> <br />
+I'm a **Robotics and Embedded Software Professional** 👨🏽‍💼 living in Finland. <br/>
